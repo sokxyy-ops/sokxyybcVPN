@@ -1,6 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%40sokxyybc
 название
 
+vless://87cb7d3f-6c85-4a16-adf9-bda445ce576a@yandex-2.ultima.foundation:443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%AA%F0%9F%87%BA+%232+LTE+%E2%80%94+%E2%9A%A1%EF%B8%8F+%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
 vless://0d6974c7-d686-44ee-931e-a02de6879835@46.243.233.12:443?security=reality&encryption=none&pbk=mLZSvX6YgJbe-DIxWJ_7opUv3IadEXz3Gj-yJQFxd1w&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=web.max.ru&sid=357d2ffdb2#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D+CDN
 vless://0d6974c7-d686-44ee-931e-a02de6879835@46.243.233.12:443?security=reality&encryption=none&pbk=mLZSvX6YgJbe-DIxWJ_7opUv3IadEXz3Gj-yJQFxd1w&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=web.max.ru&sid=357d2ffdb2#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
 vless://2cbd05ea-06be-47ff-b65d-1eaff2ec3fb2@ru.volnalink.uk:5555?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&pbk=imS00BOMVviktiAFypnoAQkpQ9-cmS-sWasAeTk2aiU&sid=61#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20-%20%D0%92%D0%A1%D0%95%20%D0%9E%D0%9F%D0%95%D0%A0%D0%90%D0%A2%D0%9E%D0%A0%D0%AB
