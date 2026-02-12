@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%40sokxyybc Standart
-
+vless://87cb7d3f-6c85-4a16-adf9-bda445ce576a@yandex-1.ultima.foundation:443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%AA%F0%9F%87%BA+LTE+%E2%80%94+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%E2%9A%A1%EF%B8%8F
