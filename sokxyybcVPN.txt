@@ -1,2 +1,5 @@
-vless://ef27e27d-cd23-4458-a2bb-3ea71a6b78f7@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%40Mr_DiLeR123+скамерипиздабол
+vless://ef27e27d-cd23-4458-a2bb-3ea71a6b78f7@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%40sokxyybc
+vless://ef27e27d-cd23-4458-a2bb-3ea71a6b78f7@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%обновите подписку в канале
+
+
 
